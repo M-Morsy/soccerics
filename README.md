@@ -30,7 +30,7 @@
 # Developers
 
 * Ahmed Fathi
-* Ahmed Naser
+* Ahmed Nasr
 * Ali Badawy
 * Mohamed Morsy
 * Shimaa Hassan
